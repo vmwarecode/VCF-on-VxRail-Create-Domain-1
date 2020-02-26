@@ -1,0 +1,14 @@
+{
+  "domainName": "vmw",
+  "vcenterSpec": {
+    "name": "vcenter-3",
+    "networkDetailsSpec": {
+      "ipAddress": "10.0.0.55",
+      "dnsName": "vcenter-3.vrack.vsphere.local",
+      "gateway": "10.0.0.250",
+      "subnetMask": "255.255.255.0"
+    },
+    "rootPassword": "VMware!123",
+    "datacenterName": "VxRail-Datacenter"
+  }
+}
